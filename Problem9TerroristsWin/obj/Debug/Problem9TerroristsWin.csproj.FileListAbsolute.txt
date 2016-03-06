@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\SoftUni Fundamentals level\Advanced C#\2-3. MultidimensionalArrays-Sets-Dictionaries\MultidimensionalArrSetsDict\Problem9TerroristsWin\bin\Debug\Problem9TerroristsWin.exe.config
+C:\Users\User\Desktop\SoftUni Fundamentals level\Advanced C#\2-3. MultidimensionalArrays-Sets-Dictionaries\MultidimensionalArrSetsDict\Problem9TerroristsWin\bin\Debug\Problem9TerroristsWin.exe
+C:\Users\User\Desktop\SoftUni Fundamentals level\Advanced C#\2-3. MultidimensionalArrays-Sets-Dictionaries\MultidimensionalArrSetsDict\Problem9TerroristsWin\bin\Debug\Problem9TerroristsWin.pdb
+C:\Users\User\Desktop\SoftUni Fundamentals level\Advanced C#\2-3. MultidimensionalArrays-Sets-Dictionaries\MultidimensionalArrSetsDict\Problem9TerroristsWin\obj\Debug\Problem9TerroristsWin.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni Fundamentals level\Advanced C#\2-3. MultidimensionalArrays-Sets-Dictionaries\MultidimensionalArrSetsDict\Problem9TerroristsWin\obj\Debug\Problem9TerroristsWin.exe
+C:\Users\User\Desktop\SoftUni Fundamentals level\Advanced C#\2-3. MultidimensionalArrays-Sets-Dictionaries\MultidimensionalArrSetsDict\Problem9TerroristsWin\obj\Debug\Problem9TerroristsWin.pdb

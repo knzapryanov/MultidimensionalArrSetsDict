@@ -1,0 +1,1 @@
+C:\Users\User\Desktop\SoftUni Fundamentals level\Advanced C#\2-3. MultidimensionalArrays-Sets-Dictionaries\MultidimensionalArrSetsDict\Pr5CollectTheCoins\bin\Debug\Pr5CollectTheCoins.exe.config
